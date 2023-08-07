@@ -1,16 +1,11 @@
-# fyp_app
+# Task Management App with Gmail Integration
 
-fyp
+This project develops a task management application that integrates with Gmail for efficient task organization and timely reminders(Nexa backend).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- User-friendly interface
+- Gmail integration for email reminders(Through backend)
+- Task creation, deletion, and completion
+- Intuitive task sorting
+- Offline access to tasks
